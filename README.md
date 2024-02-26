@@ -5,7 +5,7 @@ Hello, I am Amir Abbas
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
 
-I have 2+ years of professional experience ✏️
+I have more than two years of professional experience ✏️
 
 I'm a **Back-end** developer 🖥
 
