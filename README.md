@@ -4,7 +4,7 @@ Hello there 👋🏻, It's AminAli
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
 
-I have 4+ years of professional experience ✏️
+I have 2+ years of professional experience ✏️
 
 I'm a **Back-end** developer 🖥
 
@@ -18,12 +18,12 @@ my_skills = [
   'Python',
   'Django',
   'Django Rest Framework',
-  'FastAPI',
-  'Selenium Python',
+  'Docker',
+  'html',
+  'OOP',
+  'Celery'
   'Json Web Token (JWT)',
   'PostgreSQL Database',
-  'gRPC',
-  'Design patterns',
 ]
 
 ```
@@ -32,8 +32,7 @@ my_skills = [
 
 ### 📞 Me on social media:
 
-- 🔵 Linkedin: <a href="https://www.linkedin.com/in/aminalih47/">AminAli Mazarian</a>
-- 🔴 Gmail: <a href="mailto:aminalih47@gmail.com">AminAlih47@gmail.com</a>
+- 🔴 Gmail: <a href="mailto:aminalih47@gmail.com">pythonAmir13@gmail.com</a>
 
 <br>
 
