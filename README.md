@@ -1,5 +1,5 @@
 <h2 align="center">
-Hello there 👋🏻, It's AminAli
+Hello there 👋🏻, It's amirabbas
   
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
@@ -71,7 +71,7 @@ my_skills = [
     web-site-akhbar
   </td>
   <td>
-    <a href="https://github.com/amirDjagopy/web-site-akhbar" target="_blank">Link</a>
+    <a href="https://github.com/amirDjangopy/web-site-akhbar" target="_blank">Link</a>
   </td>
   <td>
     
