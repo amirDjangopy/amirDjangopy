@@ -1,5 +1,6 @@
 <h2 align="center">
-Hello there 👋🏻, It's amirabbas
+
+Hello, I am Amir Abbas
   
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
@@ -18,12 +19,13 @@ my_skills = [
   'Python',
   'Django',
   'Django Rest Framework',
+  'Json Web Token (JWT)',
   'Docker',
   'html',
+  'css',
   'OOP',
   'Celery'
-  'git'
-  'Json Web Token (JWT)',
+  'git',
   'PostgreSQL Database',
 ]
 
