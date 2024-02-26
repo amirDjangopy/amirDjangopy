@@ -22,6 +22,7 @@ my_skills = [
   'html',
   'OOP',
   'Celery'
+  'git'
   'Json Web Token (JWT)',
   'PostgreSQL Database',
 ]
@@ -32,7 +33,7 @@ my_skills = [
 
 ### 📞 Me on social media:
 
-- 🔴 Gmail: <a href="mailto:aminalih47@gmail.com">pythonAmir13@gmail.com</a>
+- 🔴 Gmail: <a href="mailto:pythonAmir13@gmail.com@gmail.com">pythonAmir13@gmail.com</a>
 
 <br>
 
@@ -53,10 +54,10 @@ my_skills = [
 
 <tr>
   <td>
-    PicoSchool 
+    school-website 
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/PicoSchool" target="_blank">Link</a>
+    <a href="https://github.com/amirDjangopy/school-website" target="_blank">Link</a>
   </td>
   <td>
     
@@ -67,10 +68,10 @@ my_skills = [
 
 <tr>
   <td>
-    PicoStyle
+    web-site-akhbar
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/PicoStyle" target="_blank">Link</a>
+    <a href="https://github.com/amirDjagopy/web-site-akhbar" target="_blank">Link</a>
   </td>
   <td>
     
@@ -81,10 +82,10 @@ my_skills = [
 
 <tr>
   <td>
-    APIBlog 
+    django-login-phone
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/APIBlog" target="_blank">Link</a>
+    <a href="https://github.com/amirDjangopy/django-login-phone" target="_blank">Link</a>
   </td>
   <td>
     
@@ -94,10 +95,10 @@ my_skills = [
 </tr>
 <tr>
   <td>
-  Wordpress Dashboard HTML Template
+   drf-source-course
   </td>
   <td>
-  <a href="https://github.com/AminAliH47/wp-admin-html-template" target="_blank">Link</a>
+  <a href="https://github.com/amirDjangopy/drf-source-course" target="_blank">Link</a>
   </td>
   <td>
   
