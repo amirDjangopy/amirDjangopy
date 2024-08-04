@@ -8,8 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/600px-Pytest_logo.svg.png?20220319015434" height="40" alt="pytest logo"/>        
   <img width="12" />
   <img src="https://assets-global.website-files.com/5fce549c93d4f7795558a9e7/5fce549c93d4f7c12258abc6_Rest%20API%20Logo.png" height="40" alt="rest api logo"/>
   <img width="12" />
