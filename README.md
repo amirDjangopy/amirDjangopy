@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ali0011k/Ali0011k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amirDjangopy/amirDjangopy/output/snake.svg" alt="Snake animation" />
 
 ###
 
