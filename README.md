@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="50" alt="Docker Compose logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="Rabbitmq logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40" alt="Postgres logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
