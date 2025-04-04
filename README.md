@@ -48,9 +48,9 @@
 
 ## My social networks
 
-<a href="https://www.linkedin.com/in/ali-khani-48852b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali0011k" height="30" width="40" /></a>
-<a href="https://github.com/Ali0011k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ali0011k" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ali.khani001?igsh=MTBpY2xoNGYzZjl2MQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ali0011khani" height="30" width="40"/></a>
-<a href="https://t.me/Ali0011khani" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Ali0011khani" height="30" width="30"/></a>
-<a href="https://wa.me/qr/5WNKDONHZKVEA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ali0011khani" height="30" width="40"/></a>
-<a href="https://x.com/kly441781?t=JUPvaSaMbqAP46ziyopYLA&s=35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ali0011khani" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/amirabbas-akhonid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirDjangopy" height="30" width="40" /></a>
+<a href="https://github.com/amirDjangopy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="amirDjangopy" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirDjangopy" height="30" width="40"/></a>
+<a href="https://t.me/Amirabbas1386_90" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="amirDjangopy" height="30" width="30"/></a>
+<a href="https://wa.me/qr/5WNKDONHZKVEA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="amirDjangopy" height="30" width="40"/></a>
+<a href="https://x.com/kly441781?t=JUPvaSaMbqAP46ziyopYLA&s=35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirDjangopy" height="30" width="40"/></a>
